@@ -13,15 +13,15 @@
 
 - 👯 I’m Currently Learning **PHP and Java**
 
-- 🤝 I’m looking To Collaborate on [Discord](https://discord.gg/UGYJkPgBEM)
+- 🤝 I’m looking To Collaborate on [Discord]([https://discord.gg/UGYJkPgBEM](https://discord.gg/Xs7vrCAXyD))
 
-- 📄 Know about my experiences [https://dsc.gg/elitegames](https://dsc.gg/elitegames)
+- 📄 Know about my experiences [https://discord.gg/Xs7vrCAXyD](https://discord.gg/Xs7vrCAXyD)
 
-- 📝 I regularly write new pocketmine plugins [https://dsc.gg/elitegames](https://dsc.gg/elitegames)
+- 📝 I regularly write new pocketmine plugins [https://discord.gg/Xs7vrCAXyD](https://discord.gg/Xs7vrCAXyD)
 
 - 💬 You Can Ask me about **Pocketmine Plugins**
 
-- 📫 How to reach me **devilyt12198@gmail.com**
+- 📫 How to reach me **devil@frostnetwork.xyz**
 
 - ⚡Fun Fact **I think I am Funny**
 
