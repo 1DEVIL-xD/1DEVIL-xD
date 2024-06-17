@@ -16,6 +16,9 @@
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=DEVILxD5919&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
+##Listened To🎸
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31icgvolhqil4tuq6biytgyfvxqe&cover_image=true&theme=compact&show_offline=false&background_color=96d1d9&interchange=false)](https://github.com/kittinan/spotify-github-profile)
+
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
