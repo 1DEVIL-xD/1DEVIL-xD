@@ -17,7 +17,7 @@
 ![](https://github-profile-trophy.vercel.app/?username=DEVILxD5919&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 ##Listened To🎸
-[![spotify-github-profile]([https://spotify-github-profile.vercel.app](https://spotify-github-profile.kittinanx.com)/api/view?uid=31icgvolhqil4tuq6biytgyfvxqe&cover_image=true&theme=compact&show_offline=false&background_color=96d1d9&interchange=false)](https://github.com/kittinan/spotify-github-profile)
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31icgvolhqil4tuq6biytgyfvxqe&cover_image=true&theme=default&show_offline=false&background_color=c2f0ff&interchange=false&bar_color=bef3fe&bar_color_cover=true)](https://github.com/kittinan/spotify-github-profile)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
