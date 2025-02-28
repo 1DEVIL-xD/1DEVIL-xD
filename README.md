@@ -1,5 +1,8 @@
 ## <p align="center"> <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.demolab.com/?lines=Hey+There+Myself+Devil;A+Self+Taught+Java and JavaScript+Developer;Creator+And+Founder+of+Frost Network"></a> </p>
 # 💫 About Me:
+
+![Discord](https://discord.c99.nl/widget/theme-2/921602447754031175.png)
+
 🔭 I’m currently working on Frost Creations<br>👯 I’m looking to collaborate on Pocketmine MP Plugins<br>🌱 I’m currently learning Php/PMMP/Mysql<br>⚡ Fun fact obv Im Introvert 
 
 
